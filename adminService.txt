@@ -1,0 +1,2 @@
+The admin can add users and delusers. 
+The admin is also known as root!
